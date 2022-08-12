@@ -7,3 +7,6 @@
 ### 리터럴 
 
 일종의 값을 의미 
+
+<img width="630" alt="image" src="https://user-images.githubusercontent.com/93205435/184302708-964d35e5-f37d-423a-9f9c-b40a985a9c4d.png">
+
