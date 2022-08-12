@@ -19,6 +19,6 @@ public class ConstantExam {
 		
 		final int Oil_Price = 1700; 
 		
-		int totalPrice = 50 *Oil_Price; // 위의 Oil_Price 값만 바꿔주면 수행되는 값들이 변하기 때문에 상수 사용 
+		int totalPrice = 50 *Oil_Price; // 위의 Oil_Price 값만 바꿔주면 수행되는 값들이 변하기 때문에 상수 사용. 
 	}
 }
