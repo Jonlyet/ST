@@ -3,7 +3,7 @@ package javaStudy;
 public class OperatorExam {
 
 	public static void main(String[] args) {
-		int i1 = -5; // - : 부호연산자 //  5: 피연산자 
+		int i1 = -5; // - : 부호연산자 //  5: 피연산자. 
 		int i2 = +i1;  // *변수 앞에 +가 붙으면 부호 비트를 그대로 유지 
 		int i3 = -i1;   // *변수 앞에 -가 붙으면 음수는 양수로, 양수는 음수로 변경 
 		
