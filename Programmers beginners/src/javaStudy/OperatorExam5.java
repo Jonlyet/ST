@@ -20,7 +20,7 @@ public class OperatorExam5 {
 			System.out.println("실패");
 		}
 		
-		// ^ : 두개가 다를때 true를 리턴
+		// ^ : 두개가 다를때 true를 리턴.
 		System.out.println(b1 ^ b3); //false
 		System.out.println(b1 ^ b2); //true
 		System.out.println(!b1); //false
