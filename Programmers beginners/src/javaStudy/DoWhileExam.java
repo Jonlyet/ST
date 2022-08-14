@@ -10,7 +10,7 @@ public class DoWhileExam {
 		Scanner scan = new Scanner(System.in);
 		
 		do {
-			//반복할 문장들 
+			///반복할 문장들 
 			value = scan.nextInt();
 			System.out.println("입력받은 값:" + value);
 		
