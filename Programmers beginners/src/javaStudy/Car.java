@@ -7,8 +7,8 @@ public class Car {
 	String name; 
 	int number;
 	
-	public Car(String n) {
-		name = n; 
+	public Car(String name) { //this : 객체 자신을 참조하는 키워드 
+		name = name; 
 	}
 	
 }
