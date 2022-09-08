@@ -17,7 +17,7 @@ public class MyClass {
 		return 10; 
 	}
   
-	public void method(int x, int y){//두개의 정수값 매개변수를 받았지만 return을 하지 않는 메서드의 경우
+	public void method4(int x, int y){//두개의 정수값 매개변수를 받았지만 return을 하지 않는 메서드의 경우
 	System.out.println(x + y + "m4를 실행 ");
 	}
 
