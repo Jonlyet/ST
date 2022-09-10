@@ -23,4 +23,8 @@ public class Car {
 		this.number = number; 
 		
 	}
+	
+	public void run () {
+		System.out.println("달리다.");
+	}
 }
